@@ -25,4 +25,4 @@ To use it:
 # Credits
 Icon made by Freepik from www.flaticon.com 
 
-[An example of pylarm]: (pylarm/resources/pylarm_in_action.png)
+[An example of pylarm]: pylarm/resources/pylarm_in_action.png
