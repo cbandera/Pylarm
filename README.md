@@ -19,3 +19,6 @@ To use it:
 
     $ pylarm --help
 
+
+# Credits
+Icon made by Freepik from www.flaticon.com 
